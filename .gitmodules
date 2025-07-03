@@ -1,0 +1,6 @@
+[submodule "s0ck-mobile-design-system"]
+	path = s0ck-mobile-design-system
+	url = https://github.com/team-s0ck/s0ck-mobile-design-system.git
+[submodule "lib/s0ck-mobile-design-system"]
+	path = lib/submodule
+	url = https://github.com/team-s0ck/s0ck-mobile-design-system.git
